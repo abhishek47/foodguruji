@@ -1,0 +1,47 @@
+@media only screen and (max-width: 768px) {
+
+	.jumbortron {
+		height: 500px;
+		background-position: 60%;
+	}
+  
+	#subscribe p {
+		width: 300px;
+	}
+	 
+	#subscribe .form-control {
+	 
+	  width: 250px;
+	}
+
+	#subscribe .btn-success {
+		
+		width: 90px;
+	}
+
+	#subscribe form {
+		margin: 0 auto;
+		width: 340px;
+	}
+
+
+	footer {
+	 height: 170px;
+	
+	}
+
+	footer .logo-img {
+		margin-top: 5px;
+		width: 200px;
+	}
+
+	#powered-by {
+		height: 80px;
+	}
+    
+    footer .social {
+		margin-top: 15px;
+		
+	}
+
+}
