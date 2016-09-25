@@ -174,7 +174,32 @@
 
 
   <section class="grey" id="featured-vendors">
-         
+        
+        <div class="container">
+            <div class="row">
+                 <div class="col-md-4">
+                     <img class="android-phone" src="/img/android.png">
+                 </div>
+                 <div class="col-md-8">
+                      <div class="get-app">
+                          <h2>Download Our App.</h2>
+                           
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        
+                         <div class="stores">
+                          <a href="#"><img src="/img/icons/appstore.png"></a>
+                          <a href="#"><img src="/img/icons/androidstore.png"></a>
+                         </div> 
+                      </div>
+                 </div>
+             </div>
+        </div>
+         <img src="">
   </section>
 
 
