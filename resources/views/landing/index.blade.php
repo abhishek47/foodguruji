@@ -177,10 +177,10 @@
         
         <div class="container">
             <div class="row">
-                 <div class="col-md-4">
+                 <div class="col-md-3 hidden-sm hidden-xs">
                      <img class="android-phone" src="/img/android.png">
                  </div>
-                 <div class="col-md-8">
+                 <div class="col-md-9">
                       <div class="get-app">
                           <h2>Download Our App.</h2>
                            

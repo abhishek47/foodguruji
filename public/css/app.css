@@ -5956,12 +5956,13 @@ footer .social li {
   #subscribe form {
     margin: 0 auto;
     width: 340px; }
-  .android-phone {
-    width: 150px; }
   .get-app h2 {
-    margin: 5px; }
+    text-align: center;
+    margin: 5px;
+    padding: 0px; }
   .get-app p {
-    margin: 5px; }
+    margin: 0px;
+    padding: 0px; }
   .get-app .stores img {
     width: 200px;
     margin-left: 5px; }
@@ -6005,7 +6006,7 @@ h3.green {
   color: black; }
 
 .android-phone {
-  width: 450px; }
+  height: 400px; }
 
 .get-app h2 {
   color: black;
